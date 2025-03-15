@@ -1,7 +1,4 @@
 name: Create YouTube Plus app
-
-on:
-  workflow_dispatch:
     inputs:
 
       enable_youpip:
